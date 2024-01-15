@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411633933069",
+    "project_id": "bookapp-1bcaa",
+    "storage_bucket": "bookapp-1bcaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411633933069:android:4124e5f6debd3695a76e44",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCVCQ7rl9Xu8SipPeE4rRk3iccpb4sDXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
