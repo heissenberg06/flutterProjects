@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370822375884",
+    "project_id": "newswauth",
+    "storage_bucket": "newswauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370822375884:android:5e9dad1dda495d8d569569",
+        "android_client_info": {
+          "package_name": "com.example.bastan2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Eb2sQ_fyX83p9Oxabb4dVqllGpBj-P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

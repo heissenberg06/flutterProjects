@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">370822375884</string>
+    <string name="google_api_key" translatable="false">AIzaSyC-Eb2sQ_fyX83p9Oxabb4dVqllGpBj-P4</string>
+    <string name="google_app_id" translatable="false">1:370822375884:android:5e9dad1dda495d8d569569</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC-Eb2sQ_fyX83p9Oxabb4dVqllGpBj-P4</string>
+    <string name="google_storage_bucket" translatable="false">newswauth.appspot.com</string>
+    <string name="project_id" translatable="false">newswauth</string>
+</resources>
