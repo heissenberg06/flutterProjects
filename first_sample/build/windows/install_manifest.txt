@@ -1,0 +1,10 @@
+C:/Users/velit/Desktop/Flutter/sample_project/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/velit/Desktop/Flutter/sample_project/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/velit/Desktop/Flutter/sample_project/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/velit/Desktop/Flutter/sample_project/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/velit/Desktop/Flutter/sample_project/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/velit/Desktop/Flutter/sample_project/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/velit/Desktop/Flutter/sample_project/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/velit/Desktop/Flutter/sample_project/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/velit/Desktop/Flutter/sample_project/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/velit/Desktop/Flutter/sample_project/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

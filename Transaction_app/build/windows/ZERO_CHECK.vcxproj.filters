@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\velit\Desktop\realapp\sample\build\windows\CMakeFiles\f5363c38e2154d615b0d0e9ca04f361f\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{24168478-019A-318A-B8E4-882F17F0E150}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

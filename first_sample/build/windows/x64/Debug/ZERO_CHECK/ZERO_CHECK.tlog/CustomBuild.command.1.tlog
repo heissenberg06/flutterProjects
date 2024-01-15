@@ -1,0 +1,10 @@
+^C:\USERS\VELIT\DESKTOP\FLUTTER\SAMPLE_PROJECT\BUILD\WINDOWS\CMAKEFILES\FF757B654879B7326CE8FD5AB3770029\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/velit/Desktop/Flutter/sample_project/windows -BC:/Users/velit/Desktop/Flutter/sample_project/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/velit/Desktop/Flutter/sample_project/build/windows/sample_project.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

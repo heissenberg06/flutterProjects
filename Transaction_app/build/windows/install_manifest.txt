@@ -1,0 +1,14 @@
+C:/Users/velit/Desktop/realapp/sample/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/velit/Desktop/realapp/sample/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/velit/Desktop/realapp/sample/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/velit/Desktop/realapp/sample/build/windows/runner/Debug/data/flutter_assets/assets/fonts/OpenSans-Bold.ttf
+C:/Users/velit/Desktop/realapp/sample/build/windows/runner/Debug/data/flutter_assets/assets/fonts/OpenSans-Regular.ttf
+C:/Users/velit/Desktop/realapp/sample/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Quicksand-Bold.ttf
+C:/Users/velit/Desktop/realapp/sample/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Quicksand-Regular.ttf
+C:/Users/velit/Desktop/realapp/sample/build/windows/runner/Debug/data/flutter_assets/assets/images/waiting.png
+C:/Users/velit/Desktop/realapp/sample/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/velit/Desktop/realapp/sample/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/velit/Desktop/realapp/sample/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/velit/Desktop/realapp/sample/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/velit/Desktop/realapp/sample/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/velit/Desktop/realapp/sample/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
